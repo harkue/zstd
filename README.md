@@ -16,6 +16,7 @@ a list of known ports and bindings is provided on [Zstandard homepage](http://ww
 [![Build status][CircleDevBadge]][CircleLink]
 [![Build status][CirrusDevBadge]][CirrusLink]
 [![Fuzzing Status][OSSFuzzBadge]][OSSFuzzLink]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharkue%2Fzstd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharkue%2Fzstd?ref=badge_shield)
 
 [travisDevBadge]: https://travis-ci.org/facebook/zstd.svg?branch=dev "Continuous Integration test suite"
 [travisLink]: https://travis-ci.org/facebook/zstd
@@ -190,6 +191,9 @@ Zstandard is considered safe for production environments.
 ## License
 
 Zstandard is dual-licensed under [BSD](LICENSE) and [GPLv2](COPYING).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharkue%2Fzstd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharkue%2Fzstd?ref=badge_large)
 
 ## Contributing
 
